@@ -1,4 +1,4 @@
-# Atalho úteis do Intellij
+# Atalhos úteis do Intellij
 
 
 - Remove unused imports: 
